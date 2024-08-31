@@ -1,0 +1,2 @@
+name: Jharna, age: 22, salary: 50000
+name: Sakshi, age: 24, salary: 50000

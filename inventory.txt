@@ -1,0 +1,11 @@
+Definition 
+The definition of inventory changes slightly depending on the industry. Here’s a small list of definitions:
+Most common definition
+Inventory refers to all the items, goods, merchandise, and materials held by a business for selling in the market to earn a profit.
+Example: If a newspaper vendor uses a vehicle to deliver newspapers to the customers, only the newspaper will be considered inventory. The vehicle will be treated as an asset.
+Manufacturing industry
+In a manufacturing business, inventory is not only the final product manufactured and ready to sell, but also the raw materials used in production and the semi-finished goods in the warehouse or on the factory floor.
+Example: For a cookie manufacturer, inventory will include the packets of cookies that are ready to sell, the semi-finished stock of cookies that haven’t been cooled or packed yet, the cookies set aside for quality checking, and raw materials like sugar, milk, and flour.
+Service industry
+In a service industry, since there is no exchange of physical stock, the inventory is mostly intangible in nature. So the service industry inventory mostly includes the steps involved before completing a sale.Example: For a research consultancy firm, inventory consists of all the information collected for a project. In the hotel industry, a vacant room is inventory for the owner.
+

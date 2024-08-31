@@ -1,0 +1,4 @@
+food :500
+house : 25000
+housekeep : 5000
+Travel: 6000 
